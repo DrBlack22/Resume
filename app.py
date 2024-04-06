@@ -5,7 +5,7 @@ def main():
 
     # Add a link to download the resume in PDF format
     st.subheader("Medical Scribe")
-    st.markdown("[Click to Download Resume](https://github.com/DrBlack22/Resume/blob/master/resume.pdf)")
+    st.markdown("[Click to Download Resume](https://drive.google.com/file/d/1OAs-JFtZo0TmWm1L_mQjnwCrnJj_oxlA/view?usp=sharing)")
     
     # Display the PNG version of the resume for preview
     st.image("resume2.jpg", caption="Hammadahmadzafar471@gmail.com | +92-334-4555179", use_column_width=True)
